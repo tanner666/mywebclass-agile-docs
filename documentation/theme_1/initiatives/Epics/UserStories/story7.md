@@ -9,3 +9,4 @@ The CI/CD pipeline is not set up, and builds must be triggered manually.
 The pipeline does not include automated testing or code quality checks.
 
 ## Related Tasks:
+* [task8](Tasks/task8.md)

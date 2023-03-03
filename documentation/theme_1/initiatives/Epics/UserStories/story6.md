@@ -9,3 +9,4 @@ The website is not accessible on certain devices or screen sizes
 The website's content is difficult to read or not displayed correctly on certain devices or screen sizes
 
 ## Related Tasks:
+* [task7](Tasks/task7.md)
