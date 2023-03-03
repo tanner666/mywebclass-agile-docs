@@ -7,3 +7,5 @@ The pipeline includes automated testing, code quality checks, and deployment to 
 Negative acceptance criteria:
 The CI/CD pipeline is not set up, and builds must be triggered manually.
 The pipeline does not include automated testing or code quality checks.
+
+## Related Tasks:

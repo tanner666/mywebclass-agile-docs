@@ -7,3 +7,5 @@ The website's content is displayed correctly and is easy to read on any device o
 Negative acceptance criteria:
 The website is not accessible on certain devices or screen sizes
 The website's content is difficult to read or not displayed correctly on certain devices or screen sizes
+
+## Related Tasks:
