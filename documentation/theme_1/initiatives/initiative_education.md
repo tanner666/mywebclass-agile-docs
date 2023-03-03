@@ -1,9 +1,9 @@
-# Theme 1: Education
+# Initiative 1: Education
 ## Overview
 Our objective is to provide informative and engaging content about 
 software engineering concepts, best practices, tools, and techniques.
 
-## Initiative(s)
+## Epic(s)
 * [Develop a content strategy and plan for creating high-quality articles, tutorials, and other educational resources on software engineering topics.](Epics/initiative_content_creation.md)
 * [Present concepts and topics in a clear and concise manner, while fully explaining ideas.](Epics/content_readability.md)
 * [Verify content is up-to-date and accurate.](Epics/content_validation.md)
