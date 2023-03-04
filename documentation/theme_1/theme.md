@@ -1,6 +1,6 @@
 # Theme: MyWebClass Website Development
 ## Overview
-The goal of MyWebClass is to provide accurate and up-to-date information on software engineering topics in a way that is easy to understand and accessible to a wide audience.
+The goal of MyWebClass is to provide accurate and up-to-date information on software engineering topics in a way that is easy to understand and accessible to teachers, students, and others.
 
 ## Initiative(s)
 * [Education](initiatives/initiative_education.md)
